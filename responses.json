@@ -1,0 +1,79 @@
+{
+  "hello": [
+    "Hey there! How are you doing today?",
+    "Hi! What's on your mind?",
+    "Hello! How are you feeling right now?",
+    "Hey! Good to see you here again"
+  ],
+  "hi": [
+    "Hi there! How's everything going?",
+    "Hey! What brings you here today?",
+    "Hello! How are things with you?"
+  ],
+  "sad": [
+    "I'm really sorry you're feeling this way. Want to talk about it?",
+    "That sounds hard... but remember, you're not alone.",
+    "It's okay to feel sad sometimes. Do you want to share what happened?",
+    "I'm here to listen if you want to let it out."
+  ],
+  "happy": [
+    "That's amazing! What made your day so good?",
+    "Yay! I love hearing good vibes!",
+    "I'm glad to hear that! Keep that energy going!",
+    "Awesome! Want to tell me what's making you smile?"
+  ],
+  "stress": [
+    "Stress can be really draining. Want to try a quick breathing tip?",
+    "I get it - sometimes things pile up. Want to talk about what's causing it?",
+    "Deep breaths. You've handled hard days before, you'll get through this too",
+    "Would you like me to share some simple stress relief ideas?"
+  ],
+  "anxiety": [
+    "Anxiety can be heavy. Try taking a slow, deep breath - in and out.",
+    "You're safe here. Let's take it one step at a time.",
+    "I understand how anxious moments feel. Want to talk about what triggered it?",
+    "You're doing your best - that's enough right now."
+  ],
+  "angry": [
+    "It's okay to feel angry. What happened?",
+    "I can tell you're upset. Do you want to talk it out?",
+    "Take a deep breath first - then tell me what's bothering you.",
+    "Anger is a natural response. Let's unpack it calmly together."
+  ],
+  "bored": [
+    "Boredom hits us all! Want me to suggest something fun to do?",
+    "Hmm, sounds like you need a little spark. Should I recommend a quick activity?",
+    "Maybe try a short walk or a new playlist? Music often helps!",
+    "Let's break that boredom - want to chat about a random topic?"
+  ],
+  "tired": [
+    "You sound exhausted. Maybe a short rest could help?",
+    "It's okay to take a break - you deserve one.",
+    "You've probably been doing a lot. How about relaxing for a bit?",
+    "Rest is important too. Want me to guide a quick relaxation routine?"
+  ],
+  "gratitude": [
+    "That's really kind of you to say",
+    "I'm glad I could help!",
+    "You're welcome - happy to be here for you!",
+    "That means a lot. Thank you!"
+  ],
+  "motivation": [
+    "You've got this! Keep going!",
+    "Small steps still move you forward. Don't stop now!",
+    "Believe in yourself - you're stronger than you think.",
+    "Let's refocus - what's one small thing you can do right now?"
+  ],
+  "bye": [
+    "Take care! Remember, I'm always here when you need someone to talk to.",
+    "Goodbye! Sending you positive energy",
+    "See you soon! Stay safe and kind to yourself.",
+    "Bye! You did great today - keep going!"
+  ],
+  "default": [
+    "I'm here for you. Tell me more about that.",
+    "Hmm, can you explain a bit more?",
+    "I didn't quite get that - want to rephrase?",
+    "That sounds interesting. Tell me more!"
+  ]
+}
